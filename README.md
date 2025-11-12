@@ -18,14 +18,14 @@
 Опишите принципы построения системы и их разграничение или разбивку между базами данных.
 ОТВЕТ: 
 Исходная БД: library_db
-├── users
-├── books  
-└── shops
+ - users
+ - books  
+ - shops
 
 #### Вертикальный шардинг::
-СЕРВЕР 1: users_db (только для users)
-СЕРВЕР 2: books_db (только для books)
-СЕРВЕР 3: shops_db (только для shops)
+ - СЕРВЕР 1: users_db (только для users)
+ - СЕРВЕР 2: books_db (только для books)
+ - СЕРВЕР 3: shops_db (только для shops)
 <img width="1112" height="594" alt="image" src="https://github.com/user-attachments/assets/931a675a-cb78-4963-bc6c-c5d4d4bccb1e" />
 
 
