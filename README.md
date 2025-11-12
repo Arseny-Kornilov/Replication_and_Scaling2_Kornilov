@@ -42,5 +42,5 @@
 СЕРВЕР 3: db_shard_3
  - users (id 400 001 - 600 000) - режим работы ЗАПИСЬ/ЧТЕНИЕ
  - books - режим работы - ТОЛЬКО ЧТЕНИЕ    
- - shops- режим работы - ТОЛЬКО ЧТЕНИЕ  
+ - shops - режим работы - ТОЛЬКО ЧТЕНИЕ  
 <img width="1353" height="335" alt="image" src="https://github.com/user-attachments/assets/8ec7dc6b-3549-4e74-a7e3-2428affe58cc" />
